@@ -1,2 +1,26 @@
-# weather-forecast
-Weather App: A GUI-based weather forecasting app built with Python, Tkinter, and OpenWeatherMap API. Features: Current weather conditions, 7-day forecast, search functionality, and timezone detection. User-friendly interface with icons and images. MIT License.
+Weather App
+
+A GUI-based weather forecasting app built with Python, Tkinter, and OpenWeatherMap API.
+
+Features
+
+- Current weather conditions
+- 7-day forecast
+- Search functionality
+- Timezone detection
+- User-friendly interface with icons and images
+
+Usage
+
+1. Clone the repository
+2. Install Python 3.x and Tkinter
+3. Run the app using python 
+
+License
+
+Released under the MIT License.
+
+Author
+
+Harshit Rajeev
+
